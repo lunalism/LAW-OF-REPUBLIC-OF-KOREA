@@ -49,8 +49,8 @@
 
 ## 👥 기여 방법
 
-누구나 Pull Request 또는 Issue를 통해 자유롭게 참여하실 수 있습니다.  
-자세한 기여 가이드는 추후 `CONTRIBUTING.md`에 작성될 예정입니다.
+누구나 Pull Request 또는 Issue를 통해 자유롭게 참여하실 수 있습니다.
+자세한 참여 방식은 [CONTRIBUTING.md](CONTRIBUTING.md)를 참고해 주세요.
 
 ---
 
